@@ -1,0 +1,24 @@
+.singleproduct {
+}
+.singleproduct > img :hover {
+  height: 200px;
+}
+.singleproduct__addtocart {
+  flex-direction: column;
+  flex-wrap: wrap;
+  display: flex;
+  padding: 8px;
+  align-items: center;
+  justify-content: center;
+}
+.singleproduct__productimage {
+  height: 349px;
+  width: 262px;
+}
+.singleproduct__sizes {
+  color: rgb(14, 13, 13);
+  display: inline;
+  flex-direction: row;
+  align-items: center;
+  padding: 8px;
+}

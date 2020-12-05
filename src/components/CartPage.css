@@ -1,0 +1,23 @@
+.cartpage {
+  display: flex;
+}
+.cartpage__items__left {
+  flex: 0.8;
+  padding: 22px;
+  display: flex;
+  flex-direction: column;
+}
+.cartpage__items__right {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 22px;
+}
+
+.cartpage__items__right__payment_btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  padding: 4px;
+}

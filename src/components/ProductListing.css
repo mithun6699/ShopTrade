@@ -1,0 +1,14 @@
+.productfilters {
+  padding: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-bottom: 5px;
+}
+.filteroptions {
+  display: flex;
+  flex-wrap: wrap;
+  /* margin: 12px; */
+  align-items: center;
+  justify-content: space-around;
+}

@@ -1,0 +1,33 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  height: 10vh;
+  padding: 8px;
+}
+.navbar__center {
+  flex: 1;
+  display: flex;
+  justify-content: space-around;
+}
+.navbar__right {
+  padding: 8px;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+.navbar__right p {
+  font-size: 12px;
+}
+.navbar__right__icons {
+  display: flex;
+  align-items: center;
+}
+.navbar__right__search,
+.navbar__right__logo .navbar__right__profile,
+.navbar__right__cart {
+  padding: 8px;
+}
+.cartDetails {
+  display: flex;
+  align-items: center;
+}

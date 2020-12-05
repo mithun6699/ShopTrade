@@ -1,0 +1,19 @@
+.invitecomponent {
+  height: 10vh;
+  background: linear-gradient(90.06deg, #181716 0%, #ed4e08 99.97%);
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.invitecomponent__text {
+  font-weight: 500;
+  margin-right: 8px;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 18.75px;
+  color: #ffffff;
+}
+.invitecomponent__button {
+}
